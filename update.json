@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/ISL-PRIME-TV/ativador-v2/main/isl-ativador-v2-release-signed.apk?v=5",
-  "sha256": "a7068c33e71770b05037ba966a8ab10af874b0469991237ee12e55d01bcf76c8",
-  "releaseNotes": "Atualização obrigatória para continuar usando os serviços, sessão interna de 30 minutos e escolha automática da versão mais recente publicada."
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/ISL-PRIME-TV/ativador-v2/main/isl-ativador-v2-release-signed.apk?v=6",
+  "sha256": "4d4882e545ea451db6e2cf5cf42b85ea9916fcefab2cfe30f3ebb02e3eb39c63",
+  "releaseNotes": "Crédito da tela principal atualizado para ISL PrimeTV. Mantém a atualização obrigatória e a sessão interna de 30 minutos."
 }
