@@ -1,0 +1,7 @@
+{
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/ISL-PRIME-TV/ativador-v2/main/isl-ativador-v2-release-signed.apk",
+  "sha256": "a7068c33e71770b05037ba966a8ab10af874b0469991237ee12e55d01bcf76c8",
+  "releaseNotes": "Atualização obrigatória para continuar usando os serviços, sessão interna de 30 minutos e escolha automática da versão mais recente publicada."
+}
