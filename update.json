@@ -1,7 +1,0 @@
-{
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/ISL-PRIME-TV/ativador-v2/main/isl-ativador-v2-release-signed.apk",
-  "sha256": "a145f6cd604ac019d72b894063ac95cb50d649091077929d02abb65050878c9a",
-  "releaseNotes": "Sessão de ativação reduzida internamente, sem exibir o prazo no aplicativo, com foco amarelo nos ícones para TV Box e versão visível no canto inferior direito."
-}
